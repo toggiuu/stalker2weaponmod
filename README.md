@@ -80,6 +80,7 @@ rpg 매우 강하게 만듬 **
 I appreciate for your making good balancing table and this mod. Zhukoniy
 
 
+01/09 07:51
 
 
 밸런스 테이블은 기본적으로 weaponbalance 모드를 따왔고
