@@ -78,3 +78,14 @@ rpg 매우 강하게 만듬 **
 
 
 I appreciate for your making good balancing table and this mod. Zhukoniy
+
+
+
+
+25/01/08 12:38 업데이트 
+gp37 너무 후져서 조금 상향
+NPC 체력 증가 대비 총기 전체 데미지 소폭 증가
+9x39 탄환 총들 탄 낙차 감소 
+M701 데미지 증가
+
+
