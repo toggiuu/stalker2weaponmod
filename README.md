@@ -1,14 +1,14 @@
 https://www.nexusmods.com/stalker2heartofchornobyl/mods/128?tab=description
 
-
 Created by
 Zhukoniy
 
+https://www.nexusmods.com/stalker2heartofchornobyl/mods/41
 
-Uploaded by
-Zhukoniy
+Created by
+Fredrik
 
-원본 모드는 이 모드입니다. 이 레포는 이 모드를 조금 더 밸런싱하고 유니크 웨폰 획득 재미까지 추가한 수정버젼입니다.
+원본 모드는 이 모드들입니다. 이 레포는 이 모드를 조금 더 밸런싱하고 유니크 웨폰 획득 재미까지 추가한 수정버젼입니다.
 
 또 플레이하다 보니 뭔가 이상해서 NPCHPx05랑 NPCHP 뜯어보니까 아예 같은파일이었습니다. 원래 버젼에는 npc 피가 10인데 둘다 수정해서 NPCx05는 13으로 NPC는 16으로 수정했습니다
 
