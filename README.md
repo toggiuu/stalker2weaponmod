@@ -39,7 +39,7 @@ mark ebr 308 탄인데 데미지가 너무 약한거 같아 상향 조정함.
 rpg 매우 강하게 만듬 **
 
 
-추천 조합 : 뮤턴트 체력 150% + NPCHPX15 + Ammorebalance_fix_P + WeaponRebalance~~ + WeaponRebalanceNPCx05 이렇게 조합하는게 가장 추천드림
+추천 조합 : 뮤턴트 체력 200% + NPCHPX15 + Ammorebalance_fix_P + WeaponRebalance~~ + WeaponRebalanceNPCx05 이렇게 조합하는게 가장 추천드림
 
 무기별 밸런싱 기준 테이블
 9X18 - damage = 25, piercing = 1.2  - PST GZ
